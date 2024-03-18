@@ -1,0 +1,7 @@
+C:\Users\mosconi.19322\source\repos\ServerGestioneFile.Mosconi\ServerGestioneFile.Mosconi\bin\Debug\ServerGestioneFile.Mosconi.exe.config
+C:\Users\mosconi.19322\source\repos\ServerGestioneFile.Mosconi\ServerGestioneFile.Mosconi\bin\Debug\ServerGestioneFile.Mosconi.exe
+C:\Users\mosconi.19322\source\repos\ServerGestioneFile.Mosconi\ServerGestioneFile.Mosconi\bin\Debug\ServerGestioneFile.Mosconi.pdb
+C:\Users\mosconi.19322\source\repos\ServerGestioneFile.Mosconi\ServerGestioneFile.Mosconi\obj\Debug\ServerGestioneFile.Mosconi.csproj.AssemblyReference.cache
+C:\Users\mosconi.19322\source\repos\ServerGestioneFile.Mosconi\ServerGestioneFile.Mosconi\obj\Debug\ServerGestioneFile.Mosconi.csproj.CoreCompileInputs.cache
+C:\Users\mosconi.19322\source\repos\ServerGestioneFile.Mosconi\ServerGestioneFile.Mosconi\obj\Debug\ServerGestioneFile.Mosconi.exe
+C:\Users\mosconi.19322\source\repos\ServerGestioneFile.Mosconi\ServerGestioneFile.Mosconi\obj\Debug\ServerGestioneFile.Mosconi.pdb
